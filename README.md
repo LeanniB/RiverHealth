@@ -1,18 +1,18 @@
-# Sustainable Design
+# River Health 
 
  
-### What is sustainable design, why is it so important, and how do we encourage others to pursue it?
+### What is river health, why is it so imporant, how do we encoruge others to protect it? What are some different ways to address and solve issues related to one specific thing? 
 
 ![QR Code](https://github.com/MyNatureOuting/sustainable-design/blob/main/qrcode.png)
 
 ### https://bit.ly/3DJLcPx <p>&nbsp;</p>
 
-[Google Slides Link](https://docs.google.com/presentation/d/1fQceMx1WvULTcqVVRu5e5k0a1cMx3p4mRq_LDntJZFE/edit?usp=sharing)
-
+[Google Slides Link]
+https://docs.google.com/presentation/d/1m7YDzIinS4AGL3oVRmItfEja8BeYBTLd1Wp-jWnU8DQ/edit?usp=sharing
  
 ### This template includes responsive design and cool tools like modal views. 
 
-**-Explore sustainable design**
+**-Explore River Health**
 
 **-Use Tools to construct meaning**
 
@@ -32,7 +32,7 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
-3.	Find and open the “sustainable-design-main-zip” file in “Files/Downloads” and drag this folder into “MyFiles.”   
+3.	Find and open the “River-Health-main-zip” file in “Files/Downloads” and drag this folder into “MyFiles.”   
 
 4.	Name this project folder with your first name. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera.
 
