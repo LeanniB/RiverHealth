@@ -3,7 +3,7 @@
  
 ### What is river health, why is it so imporant, how do we encoruge others to protect it? What are some different ways to address and solve issues related to one specific thing? 
 
-![QR Code][Youth Science Communication Workshop](https://github.com/LeanniB/RiverHealth/assets/169322779/4dbe8ffa-4f91-4ddd-aa40-5aefa722363f)
+![QR Code]![Youth Science Communication Workshop](https://github.com/LeanniB/RiverHealth/assets/169322779/4dbe8ffa-4f91-4ddd-aa40-5aefa722363f)
 
 
 ### https://bit.ly/3DJLcPx <p>&nbsp;</p>
