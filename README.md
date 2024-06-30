@@ -28,7 +28,7 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 ## Get Started (Chromebook)
 
-1. Go to repository [Sustaianble Design repository:] (https://github.com/MyNatureOuting/sustainable-design)
+1. Go to repository [River Health:] (https://github.com/LeanniB/RiverHealth.git)
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
