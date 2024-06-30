@@ -8,8 +8,7 @@
 
 ### https://bit.ly/3DJLcPx <p>&nbsp;</p>
 
-[Google Slides Link]
-https://docs.google.com/presentation/d/1m7YDzIinS4AGL3oVRmItfEja8BeYBTLd1Wp-jWnU8DQ/edit?usp=sharing
+[Google Slides Link](https://docs.google.com/presentation/d/1m7YDzIinS4AGL3oVRmItfEja8BeYBTLd1Wp-jWnU8DQ/edit?usp=sharing)
  
 ### This template includes responsive design and cool tools like modal views. 
 
